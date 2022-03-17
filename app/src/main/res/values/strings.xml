@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoListJoshGrainge</string>
+    <string name="app_title">//TODO</string>
+    <string name="add_button_text">Add</string>
+    <string name="input_field_hint">Enter activity here</string>
+
+</resources>
